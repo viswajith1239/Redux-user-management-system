@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "react-router-dom": "^6.26.2"
+  },
+  "name": "redux-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
