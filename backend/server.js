@@ -1,7 +1,7 @@
 const express=require("express")
 
 const mongoose= require("mongoose")
-const port=3000
+const port=8000
 const app=express()
 
 const logger=require("morgan")
